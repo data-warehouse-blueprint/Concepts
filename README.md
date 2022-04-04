@@ -1,1 +1,1 @@
-# concepts
+# Data Warehouse Blueprint - Concepts
